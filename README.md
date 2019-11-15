@@ -1,9 +1,3 @@
-### Important
-```
-LuckyPal IT started this project from Oct 2016 and first version is launched at Feb 2, 2017.
-Under NDA sign, we can't public source and requirement documents, but you can check project under agreement.
-```
-
 # Call Blocker: Block spam calls
 Identify & Block spam calls
 [UnknownPhone.com](https://UnknownPhone.com/)
